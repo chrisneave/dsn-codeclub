@@ -10,7 +10,7 @@ You will write code for both the controller and the bot. If you are working in a
 
 ## Coding the Controller
 
-Open the [MakeCode Editor][editor]{:target="_blank"} and change the name of the program to `Radio Robots - Bot`.
+Open the [MakeCode Editor][editor]{:target="_blank"} and change the name of the program to `Radio Robots - Controller`.
 
 Remove the `forever` block as we're not going to need it. *If there are other blocks left over from a previous project you can delete those as well.*
 
