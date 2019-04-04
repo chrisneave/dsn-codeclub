@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Scratch - Pattern Generator"
-date: 2019-04-03
+date: 2019-04-04
 categories: scratch
 ---
 This week we will be using Scratch to generate random geometric patterns using the pen tool.
