@@ -2,7 +2,7 @@
 layout: post
 title: "Scratch - Ghostbusters"
 date: 2019-04-25
-categories: microbit
+categories: scratch
 ---
 This week we will be coding a ghost catching game using Scratch.
 
