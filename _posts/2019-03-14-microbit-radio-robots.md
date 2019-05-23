@@ -40,7 +40,7 @@ With this in mind we now need to add blocks to detect the type of movement. For 
 
 ![input-on-block](/assets/microbit-radio-robots/input-on-block.png)
 
-The `on` block allows us to select an input signal and then execute a number of other code blocks whenever that input signal is raised. Because we are using radio to
+The `on` block allows us to select an input signal and then execute a number of other code blocks whenever that input signal is raised. Because we are using radio to send movement instructions to the robot, we need to use the `radio send number` block and send a value that matches the direction we want the robot to move in, e.g. `1` to turn left.
 
 Add the following block to your controller to send a `move left` signal when the Micro:bit is tilted to the left.
 
