@@ -93,3 +93,5 @@ Finally, we need to add code that starts off the explosion of LED rainbows! To d
 
 1. Can you add code that clears the rainbow on all Microbits at the start of a new sequence?
 2. Can you add code to the last Microbit in the sequence to start a new rainbow sequence from the beginning, creating an eternal rainbow?
+
+[editor]: https://makecode.microbit.org/#editor
