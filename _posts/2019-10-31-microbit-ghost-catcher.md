@@ -24,7 +24,7 @@ Now let's add some code to detect a ghost. Add the following blocks to your edit
 
 ![detecting-a-ghost](/assets/microbit-ghost-catcher/detecting-a-ghost.png)
 
-Try uploading your code to your Micro:bit and after calibrating the compass, giv the Micro:bit a little shake and then slowly rotate it round in a circle and see if you can detect a ghost. You might have to be patient and move the Micro:bit slowly but eventually you should see an image of a ghost popup on the LEDs.
+Try uploading your code to your Micro:bit and after calibrating the compass, give the Micro:bit a little shake and then slowly rotate it round in a circle and see if you can detect a ghost. You might have to be patient and move the Micro:bit slowly but eventually you should see an image of a ghost popup on the LEDs.
 
 Each time you give your Micro:bit a shake the ghost will disappear and a new one will show up in a different location.
 
